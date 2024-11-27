@@ -1,5 +1,2198 @@
 {
     "Bohemian Rhapsody": {
-        
+        "billboard": 1,
+        "aria": 2,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 3,
+            "France": 4,
+            "Canada": 5
+        }
     },
+    "Imagine": {
+        "billboard": 3,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 3,
+            "Australia": 1,
+            "UK": 1,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Hotel California": {
+        "billboard": 1,
+        "aria": 10,
+        "occ": 8,
+        "countries": {
+            "USA": 1,
+            "Australia": 10,
+            "UK": 8,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Smells Like Teen Spirit": {
+        "billboard": 6,
+        "aria": 5,
+        "occ": 7,
+        "countries": {
+            "USA": 6,
+            "Australia": 5,
+            "UK": 7,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Sweet Child O' Mine": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 6,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 6,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Hey Jude": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 1,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Like a Rolling Stone": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 4,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 4,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Rolling in the Deep": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Lose Yourself": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Stairway to Heaven": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "What's Going On": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 80,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 80,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Purple Rain": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 8,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Let It Be": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 2,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Superstition": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 11,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 11,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Uptown Funk": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Wonderwall": {
+        "billboard": 8,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 8,
+            "Australia": 1,
+            "UK": 2,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Smack That": {
+        "billboard": 2,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 2,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Creep": {
+        "billboard": 34,
+        "aria": 6,
+        "occ": 7,
+        "countries": {
+            "USA": 34,
+            "Australia": 6,
+            "UK": 7,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "I Will Survive": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Stayin' Alive": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 4,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 4,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Hallelujah": {
+        "billboard": null,
+        "aria": null,
+        "occ": 36,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": 36,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Back in Black": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Respect": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 10,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 10,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Livin' on a Prayer": {
+        "billboard": 1,
+        "aria": 3,
+        "occ": 4,
+        "countries": {
+            "USA": 1,
+            "Australia": 3,
+            "UK": 4,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Born to Run": {
+        "billboard": 23,
+        "aria": null,
+        "occ": 16,
+        "countries": {
+            "USA": 23,
+            "Australia": null,
+            "UK": 16,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Yesterday": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 8,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Karma Police": {
+        "billboard": null,
+        "aria": 8,
+        "occ": 8,
+        "countries": {
+            "USA": null,
+            "Australia": 8,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "One": {
+        "billboard": 10,
+        "aria": 7,
+        "occ": 7,
+        "countries": {
+            "USA": 10,
+            "Australia": 7,
+            "UK": 7,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Wonder": {
+        "billboard": 18,
+        "aria": 20,
+        "occ": 20,
+        "countries": {
+            "USA": 18,
+            "Australia": 20,
+            "UK": 20,
+            "France": null,
+            "Canada": 14
+        }
+    },
+    "Goodbye Yellow Brick Road": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 6,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 6,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Somebody to Love": {
+        "billboard": 13,
+        "aria": null,
+        "occ": 2,
+        "countries": {
+            "USA": 13,
+            "Australia": null,
+            "UK": 2,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Nothing Else Matters": {
+        "billboard": null,
+        "aria": 5,
+        "occ": 6,
+        "countries": {
+            "USA": null,
+            "Australia": 5,
+            "UK": 6,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Hotel Yorba": {
+        "billboard": null,
+        "aria": null,
+        "occ": 26,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": 26,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Take on Me": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Bad Romance": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Counting Stars": {
+        "billboard": 2,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 2,
+            "UK": 1,
+            "France": 6,
+            "Canada": 1
+        }
+    },
+    "Someone Like You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Come As You Are": {
+        "billboard": 32,
+        "aria": 12,
+        "occ": 9,
+        "countries": {
+            "USA": 32,
+            "Australia": 12,
+            "UK": 9,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Chandelier": {
+        "billboard": 8,
+        "aria": 2,
+        "occ": 6,
+        "countries": {
+            "USA": 8,
+            "Australia": 2,
+            "UK": 6,
+            "France": 4,
+            "Canada": 10
+        }
+    },
+    "Firework": {
+        "billboard": 1,
+        "aria": 3,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 3,
+            "UK": 3,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Africa": {
+        "billboard": 1,
+        "aria": 5,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 5,
+            "UK": 3,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Smooth Criminal": {
+        "billboard": 7,
+        "aria": 5,
+        "occ": 8,
+        "countries": {
+            "USA": 7,
+            "Australia": 5,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Shape of You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "In the End": {
+        "billboard": 2,
+        "aria": 4,
+        "occ": 8,
+        "countries": {
+            "USA": 2,
+            "Australia": 4,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Let Her Go": {
+        "billboard": 5,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 5,
+            "Australia": 2,
+            "UK": 2,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Thinking Out Loud": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 1,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Crazy": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 3
+        }
+    },
+    "Sweet Home Alabama": {
+        "billboard": 8,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 8,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Toxic": {
+        "billboard": 9,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 9,
+            "Australia": 1,
+            "UK": 1,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Piano Man": {
+        "billboard": 25,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 25,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Eye of the Tiger": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "All of Me": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Highway to Hell": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "A Thousand Miles": {
+        "billboard": 5,
+        "aria": 1,
+        "occ": 6,
+        "countries": {
+            "USA": 5,
+            "Australia": 1,
+            "UK": 6,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Take Me to Church": {
+        "billboard": 2,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 2,
+            "Australia": 2,
+            "UK": 2,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Wish You Were Here": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Uptown Girl": {
+        "billboard": 3,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 3,
+            "Australia": 2,
+            "UK": 1,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Sorry": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "The Chain": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Don't Stop Believin'": {
+        "billboard": 9,
+        "aria": 4,
+        "occ": 6,
+        "countries": {
+            "USA": 9,
+            "Australia": 4,
+            "UK": 6,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Under the Bridge": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 13,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 13,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Lose Yourself to Dance": {
+        "billboard": null,
+        "aria": 48,
+        "occ": 49,
+        "countries": {
+            "USA": null,
+            "Australia": 48,
+            "UK": 49,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Beat It": {
+        "billboard": 1,
+        "aria": 3,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 3,
+            "UK": 3,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "I Want to Break Free": {
+        "billboard": 45,
+        "aria": 3,
+        "occ": 3,
+        "countries": {
+            "USA": 45,
+            "Australia": 3,
+            "UK": 3,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Welcome to the Jungle": {
+        "billboard": 7,
+        "aria": 14,
+        "occ": 24,
+        "countries": {
+            "USA": 7,
+            "Australia": 14,
+            "UK": 24,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Hey Ya!": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 3,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Man in the Mirror": {
+        "billboard": 1,
+        "aria": 39,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 39,
+            "UK": 2,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Radioactive": {
+        "billboard": 3,
+        "aria": 5,
+        "occ": 12,
+        "countries": {
+            "USA": 3,
+            "Australia": 5,
+            "UK": 12,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Enter Sandman": {
+        "billboard": 16,
+        "aria": 10,
+        "occ": 5,
+        "countries": {
+            "USA": 16,
+            "Australia": 10,
+            "UK": 5,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "The Sound of Silence": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 1,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "My Heart Will Go On": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Poker Face": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Another Brick in the Wall": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "I Gotta Feeling": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Livin' La Vida Loca": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Clocks": {
+        "billboard": 29,
+        "aria": 28,
+        "occ": 9,
+        "countries": {
+            "USA": 29,
+            "Australia": 28,
+            "UK": 9,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Somebody That I Used to Know": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Yellow": {
+        "billboard": 48,
+        "aria": 5,
+        "occ": 4,
+        "countries": {
+            "USA": 48,
+            "Australia": 5,
+            "UK": 4,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Royals": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 1,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Oops!... I Did It Again": {
+        "billboard": 9,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 9,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Blinding Lights": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Don't Let Me Down": {
+        "billboard": 3,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 3,
+            "Australia": 2,
+            "UK": 2,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Iris": {
+        "billboard": 9,
+        "aria": 1,
+        "occ": 26,
+        "countries": {
+            "USA": 9,
+            "Australia": 1,
+            "UK": 26,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Umbrella": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Riptide": {
+        "billboard": 30,
+        "aria": 6,
+        "occ": 10,
+        "countries": {
+            "USA": 30,
+            "Australia": 6,
+            "UK": 10,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Bad Guy": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Tears in Heaven": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 5,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 5,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Castle on the Hill": {
+        "billboard": 6,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 6,
+            "Australia": 2,
+            "UK": 2,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Gangnam Style": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Old Town Road": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Can't Stop the Feeling!": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Wake Me Up": {
+        "billboard": 4,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 4,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Rockstar": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Despacito": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Halo": {
+        "billboard": 5,
+        "aria": 3,
+        "occ": 4,
+        "countries": {
+            "USA": 5,
+            "Australia": 3,
+            "UK": 4,
+            "France": 7,
+            "Canada": 3
+        }
+    },
+    "Viva La Vida": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 1,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Survivor": {
+        "billboard": 2,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 2,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Stronger": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 1,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Shake It Off": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Hello": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "All Star": {
+        "billboard": 4,
+        "aria": 2,
+        "occ": 24,
+        "countries": {
+            "USA": 4,
+            "Australia": 2,
+            "UK": 24,
+            "France": null,
+            "Canada": 2
+        }
+    },
+    "Crazy in Love": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Call Me Maybe": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "One More Time": {
+        "billboard": 61,
+        "aria": 10,
+        "occ": 2,
+        "countries": {
+            "USA": 61,
+            "Australia": 10,
+            "UK": 2,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Fireflies": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Havana": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Lean On": {
+        "billboard": 4,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 4,
+            "Australia": 1,
+            "UK": 2,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Let Me Love You": {
+        "billboard": 4,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 4,
+            "Australia": 2,
+            "UK": 2,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Sunflower": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 3,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Shallow": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Happier": {
+        "billboard": 2,
+        "aria": 3,
+        "occ": 2,
+        "countries": {
+            "USA": 2,
+            "Australia": 3,
+            "UK": 2,
+            "France": 5,
+            "Canada": 1
+        }
+    },
+    "Dancing Queen": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Rock with You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Lose My Breath": {
+        "billboard": 3,
+        "aria": 4,
+        "occ": 4,
+        "countries": {
+            "USA": 3,
+            "Australia": 4,
+            "UK": 4,
+            "France": 7,
+            "Canada": 2
+        }
+    },
+    "Party Rock Anthem": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "U Can't Touch This": {
+        "billboard": 8,
+        "aria": 2,
+        "occ": 3,
+        "countries": {
+            "USA": 8,
+            "Australia": 2,
+            "UK": 3,
+            "France": 3,
+            "Canada": 2
+        }
+    },
+    "Pumped Up Kicks": {
+        "billboard": 3,
+        "aria": 6,
+        "occ": 10,
+        "countries": {
+            "USA": 3,
+            "Australia": 6,
+            "UK": 10,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Girls Like You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "I Want It That Way": {
+        "billboard": 6,
+        "aria": 3,
+        "occ": 2,
+        "countries": {
+            "USA": 6,
+            "Australia": 3,
+            "UK": 2,
+            "France": 4,
+            "Canada": 2
+        }
+    },
+    "Sorry Not Sorry": {
+        "billboard": 6,
+        "aria": 8,
+        "occ": 9,
+        "countries": {
+            "USA": 6,
+            "Australia": 8,
+            "UK": 9,
+            "France": null,
+            "Canada": 7
+        }
+    },
+    "Super Bass": {
+        "billboard": 3,
+        "aria": 8,
+        "occ": 8,
+        "countries": {
+            "USA": 3,
+            "Australia": 8,
+            "UK": 8,
+            "France": null,
+            "Canada": 5
+        }
+    },
+    "One Dance": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Hotline Bling": {
+        "billboard": 2,
+        "aria": 2,
+        "occ": 3,
+        "countries": {
+            "USA": 2,
+            "Australia": 2,
+            "UK": 3,
+            "France": 5,
+            "Canada": 1
+        }
+    },
+    "Blurred Lines": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Rock Your Body": {
+        "billboard": 5,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 5,
+            "Australia": 1,
+            "UK": 2,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "Feel Good Inc.": {
+        "billboard": 14,
+        "aria": 3,
+        "occ": 2,
+        "countries": {
+            "USA": 14,
+            "Australia": 3,
+            "UK": 2,
+            "France": 3,
+            "Canada": 1
+        }
+    },
+    "I Knew You Were Trouble": {
+        "billboard": 2,
+        "aria": 3,
+        "occ": 2,
+        "countries": {
+            "USA": 2,
+            "Australia": 3,
+            "UK": 2,
+            "France": 5,
+            "Canada": 1
+        }
+    },
+    "Rude": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Happy": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Don't Stop the Music": {
+        "billboard": 3,
+        "aria": 1,
+        "occ": 4,
+        "countries": {
+            "USA": 3,
+            "Australia": 1,
+            "UK": 4,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "We Are Young": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Some Nights": {
+        "billboard": 3,
+        "aria": 5,
+        "occ": 7,
+        "countries": {
+            "USA": 3,
+            "Australia": 5,
+            "UK": 7,
+            "France": 10,
+            "Canada": 1
+        }
+    },
+    "Somebody Told Me": {
+        "billboard": 51,
+        "aria": 10,
+        "occ": 3,
+        "countries": {
+            "USA": 51,
+            "Australia": 10,
+            "UK": 3,
+            "France": 5,
+            "Canada": 2
+        }
+    },
+    "Boulevard of Broken Dreams": {
+        "billboard": 2,
+        "aria": 5,
+        "occ": 5,
+        "countries": {
+            "USA": 2,
+            "Australia": 5,
+            "UK": 5,
+            "France": 7,
+            "Canada": 1
+        }
+    },
+    "Gives You Hell": {
+        "billboard": 4,
+        "aria": 5,
+        "occ": 18,
+        "countries": {
+            "USA": 4,
+            "Australia": 5,
+            "UK": 18,
+            "France": 20,
+            "Canada": 2
+        }
+    },
+    "Wrecking Ball": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Say My Name": {
+        "billboard": 1,
+        "aria": 3,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 3,
+            "UK": 3,
+            "France": 6,
+            "Canada": 1
+        }
+    },
+    "Don't Speak": {
+        "billboard": null,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": null,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Bye Bye Bye": {
+        "billboard": 4,
+        "aria": 11,
+        "occ": 3,
+        "countries": {
+            "USA": 4,
+            "Australia": 11,
+            "UK": 3,
+            "France": null,
+            "Canada": 2
+        }
+    },
+    "Genie in a Bottle": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Since U Been Gone": {
+        "billboard": 2,
+        "aria": 6,
+        "occ": 5,
+        "countries": {
+            "USA": 2,
+            "Australia": 6,
+            "UK": 5,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Hot Stuff": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 11,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 11,
+            "France": 5,
+            "Canada": 1
+        }
+    },
+    "Every Breath You Take": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "The Way You Make Me Feel": {
+        "billboard": 1,
+        "aria": 6,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 6,
+            "UK": 3,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Kiss": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 6,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 6,
+            "France": 2,
+            "Canada": 1
+        }
+    },
+    "Ain't No Sunshine": {
+        "billboard": 3,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 3,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Brown Eyed Girl": {
+        "billboard": 10,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 10,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Mr. Brightside": {
+        "billboard": 10,
+        "aria": 15,
+        "occ": 10,
+        "countries": {
+            "USA": 10,
+            "Australia": 15,
+            "UK": 10,
+            "France": null,
+            "Canada": 10
+        }
+    },
+    "Thriller": {
+        "billboard": 4,
+        "aria": 4,
+        "occ": 10,
+        "countries": {
+            "USA": 4,
+            "Australia": 4,
+            "UK": 10,
+            "France": 8,
+            "Canada": 4
+        }
+    },
+    "American Pie": {
+        "billboard": 1,
+        "aria": 2,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 2,
+            "UK": 2,
+            "France": 4,
+            "Canada": 1
+        }
+    },
+    "Free Fallin'": {
+        "billboard": 7,
+        "aria": 12,
+        "occ": 11,
+        "countries": {
+            "USA": 7,
+            "Australia": 12,
+            "UK": 11,
+            "France": null,
+            "Canada": 5
+        }
+    },
+    "Sweet Dreams": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "With or Without You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 4,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 4,
+            "France": 6,
+            "Canada": 1
+        }
+    },
+    "Take It Easy": {
+        "billboard": 12,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 12,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Go Your Own Way": {
+        "billboard": 10,
+        "aria": 20,
+        "occ": 8,
+        "countries": {
+            "USA": 10,
+            "Australia": 20,
+            "UK": 8,
+            "France": 15,
+            "Canada": 10
+        }
+    },
+    "Rock and Roll All Nite": {
+        "billboard": 12,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 12,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "You Give Love a Bad Name": {
+        "billboard": 1,
+        "aria": 3,
+        "occ": 14,
+        "countries": {
+            "USA": 1,
+            "Australia": 3,
+            "UK": 14,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Crazy Little Thing Called Love": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 2,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Sweet Emotion": {
+        "billboard": 36,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 36,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Don't Stop 'Til You Get Enough": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 3,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 3,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Jack & Diane": {
+        "billboard": 1,
+        "aria": 5,
+        "occ": null,
+        "countries": {
+            "USA": 1,
+            "Australia": 5,
+            "UK": null,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Billie Jean": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Sweet Caroline": {
+        "billboard": 4,
+        "aria": null,
+        "occ": 8,
+        "countries": {
+            "USA": 4,
+            "Australia": null,
+            "UK": 8,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Dream On": {
+        "billboard": 6,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 6,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Message in a Bottle": {
+        "billboard": 74,
+        "aria": null,
+        "occ": 1,
+        "countries": {
+            "USA": 74,
+            "Australia": null,
+            "UK": 1,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "I Want You Back": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 2,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 2,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "My Girl": {
+        "billboard": 1,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Let's Stay Together": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 7,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 7,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Tiny Dancer": {
+        "billboard": 41,
+        "aria": null,
+        "occ": 70,
+        "countries": {
+            "USA": 41,
+            "Australia": null,
+            "UK": 70,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Blackbird": {
+        "billboard": null,
+        "aria": null,
+        "occ": null,
+        "countries": {
+            "USA": null,
+            "Australia": null,
+            "UK": null,
+            "France": null,
+            "Canada": null
+        }
+    },
+    "Fast Car": {
+        "billboard": 6,
+        "aria": 4,
+        "occ": 5,
+        "countries": {
+            "USA": 6,
+            "Australia": 4,
+            "UK": 5,
+            "France": null,
+            "Canada": 4
+        }
+    },
+    "Rocket Man": {
+        "billboard": 6,
+        "aria": 13,
+        "occ": 2,
+        "countries": {
+            "USA": 6,
+            "Australia": 13,
+            "UK": 2,
+            "France": null,
+            "Canada": 8
+        }
+    },
+    "The Weight": {
+        "billboard": 63,
+        "aria": null,
+        "occ": 21,
+        "countries": {
+            "USA": 63,
+            "Australia": null,
+            "UK": 21,
+            "France": null,
+            "Canada": 35
+        }
+    },
+    "I Will Always Love You": {
+        "billboard": 1,
+        "aria": 1,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": 1,
+            "UK": 1,
+            "France": 1,
+            "Canada": 1
+        }
+    },
+    "Drops of Jupiter": {
+        "billboard": 5,
+        "aria": 5,
+        "occ": 10,
+        "countries": {
+            "USA": 5,
+            "Australia": 5,
+            "UK": 10,
+            "France": null,
+            "Canada": 9
+        }
+    },
+    "Mr. Jones": {
+        "billboard": 5,
+        "aria": 6,
+        "occ": 28,
+        "countries": {
+            "USA": 5,
+            "Australia": 6,
+            "UK": 28,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Come Together": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 4,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 4,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Walking on Sunshine": {
+        "billboard": 9,
+        "aria": 4,
+        "occ": 8,
+        "countries": {
+            "USA": 9,
+            "Australia": 4,
+            "UK": 8,
+            "France": null,
+            "Canada": 3
+        }
+    },
+    "Born to Be Wild": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 30,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 30,
+            "France": null,
+            "Canada": 4
+        }
+    },
+    "Good Vibrations": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 1,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 1,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Take Me Home, Country Roads": {
+        "billboard": 2,
+        "aria": null,
+        "occ": 22,
+        "countries": {
+            "USA": 2,
+            "Australia": null,
+            "UK": 22,
+            "France": null,
+            "Canada": 3
+        }
+    },
+    "Light My Fire": {
+        "billboard": 1,
+        "aria": null,
+        "occ": 49,
+        "countries": {
+            "USA": 1,
+            "Australia": null,
+            "UK": 49,
+            "France": null,
+            "Canada": 1
+        }
+    },
+    "Jolene": {
+        "billboard": 60,
+        "aria": null,
+        "occ": 7,
+        "countries": {
+            "USA": 60,
+            "Australia": null,
+            "UK": 7,
+            "France": null,
+            "Canada": null
+        }
+    }
 }
